@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ramya Perumal
 - 🌱 I’m currently learning Python
 - 💞️ I’m currently focusing on problem solving
-- 📫 How to reach me @ ramya.chn@gmail.com
+- 📫 How to reach me @ ramyaperumal2024@gmail.com
 - ⚡ Fun fact: ... love Traveling, Cooking
 
 <!---
